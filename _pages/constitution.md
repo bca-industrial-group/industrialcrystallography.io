@@ -1,4 +1,5 @@
 ---
+title: Constitution
 layout: page
 permalink: /constitution/
 
