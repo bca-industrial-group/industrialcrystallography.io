@@ -10,7 +10,7 @@ sidebar:
 
 ---
 
-#CONSTITUTION
+# CONSTITUTION
 
 1. NAME. The Group shall be known as the “Industrial Group of the British Crystallographic Association “THE BRITISH CRYSTALLOGRAPHIC ASSOCIATION CONSTITUTION AND RULES OF THE INDUSTRIAL GROUP”.
 
