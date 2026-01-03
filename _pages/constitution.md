@@ -1,7 +1,12 @@
 ---
 title: Constitution
-layout: page
 permalink: /constitution/
+
+sidebar:
+  - title: "BCA Industrial Group"
+    image: "/assets/images/bca_ig_logo.jpg"
+    image_alt: "logo for website"
+    text: "A website for the Industrial Group of the BCA"
 
 ---
 
@@ -95,4 +100,4 @@ permalink: /constitution/
 
 (b) The Group shall be subject in all things to the Statutes and By Laws of the Association.
 
-Last updated 28th June 2019 and agreed at an EGM (28th August 2019), with approval by BCA council (3rd September 2019). Changes made to sections  9, 12, 13, 15, 16 and 21.
+**Last updated 28th June 2019 and agreed at an EGM (28th August 2019), with approval by BCA council (3rd September 2019). Changes made to sections  9, 12, 13, 15, 16 and 21.**
