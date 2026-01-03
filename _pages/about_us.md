@@ -8,7 +8,7 @@ sidebar:
     text: "A website for the Industrial Group of the BCA"
 ---
 
-#BCA Industrial Group
+# BCA Industrial Group
 
 We are a group that are dedicated to the introduction, development and practical application of crystallographic concepts and techniques in an industrial or applied context relating to the structure and properties of materials. Our constitution can be found [here](/_pages/constitution.md)
 
