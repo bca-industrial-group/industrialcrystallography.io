@@ -1,6 +1,6 @@
 main:
   - title:  "About Us"
-    url: /about_us/
+    url: /about/
   - title: "Constitution"
     url: /constitution/
   - title: "Bursaries and Awards"
