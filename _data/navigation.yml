@@ -1,7 +1,11 @@
 main:
   - title:  "About Us"
     url: /about/
+  - title: "Committee"
+    url: /committee/
   - title: "Constitution"
     url: /constitution/
   - title: "Bursaries and Awards"
     url: /bursaries_and_awards/
+  - title: "Membership"
+    url: /membership/
