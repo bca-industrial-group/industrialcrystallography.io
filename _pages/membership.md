@@ -1,6 +1,6 @@
 ---
-title: Join us
-permalink: /join/
+title: membership
+permalink: /membership/
 sidebar:
   - title: "BCA Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
