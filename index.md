@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: Home
+title: Home Page
 
 sidebar:
   - Title: "Industrial Group"
