@@ -1,5 +1,6 @@
 ---
 title: "About Us"
+permalink: /about/
 sidebar:
   - title: "BCA Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
