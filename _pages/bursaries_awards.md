@@ -1,6 +1,5 @@
 ---
 title: "Bursaries and Awards"
-layout: page
 permalink: /bursaries_and_awards/
 
 sidebar:
