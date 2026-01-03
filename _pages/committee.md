@@ -1,6 +1,12 @@
 ---
 title: "The Committee"
 permalink: /committee/
+
+sidebar:
+  - title: "BCA Industrial Group"
+    image: "/assets/images/bca_ig_logo.jpg"
+    image_alt: "logo for website"
+    text: "Under Construction: A website for the Industrial Group of the BCA"
 ---
 
 1. [Chair](#Chair: Dr. Luca Russo)
