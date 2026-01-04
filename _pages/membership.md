@@ -1,5 +1,6 @@
 ---
 permalink: /membership/
+title: "Membership"
 sidebar:
   - title: "BCA Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
