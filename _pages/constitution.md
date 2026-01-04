@@ -1,6 +1,6 @@
 ---
 permalink: /constitution/
-
+title: "CONSTITUTION"
 sidebar:
   - title: "BCA Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
@@ -8,8 +8,6 @@ sidebar:
     text: "Website Under Construction: A website for the Industrial Group of the BCA"
 
 ---
-
-# CONSTITUTION
 
 1. NAME. The Group shall be known as the “Industrial Group of the British Crystallographic Association “THE BRITISH CRYSTALLOGRAPHIC ASSOCIATION CONSTITUTION AND RULES OF THE INDUSTRIAL GROUP”.
 
