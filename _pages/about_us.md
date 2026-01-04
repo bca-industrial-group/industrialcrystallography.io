@@ -10,7 +10,7 @@ sidebar:
 
 # BCA Industrial Group
 
-We are a group that are dedicated to the introduction, development and practical application of crystallographic concepts and techniques in an industrial or applied context relating to the structure and properties of materials. Our constitution can be found [here](/_pages/constitution.md)
+We are a group that are dedicated to the introduction, development and practical application of crystallographic concepts and techniques in an industrial or applied context relating to the structure and properties of materials. Our constitution can be found [here](constitution.md)
 
 The Industrial group is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community.
 
