@@ -16,7 +16,7 @@ sidebar:
 
 2. DEFINITIONS. In these Rules:
 
-  “The Group” means the Industrial Group of the British Crystallographic Association. “The Association” means the British Crystallographic Association. “The Council” means “The Council of the Association”. “Members” means Ordinary and Joint Members of the Association.  
+    “The Group” means the Industrial Group of the British Crystallographic Association. “The Association” means the British Crystallographic Association. “The Council” means “The Council of the Association”. “Members” means Ordinary and Joint Members of the Association.  
 
 3. SCOPE. The Group may interest itself in any matters concerning the introduction, development and practical application of crystallographic concepts and techniques in an Industrial or applied context relating to the structure and properties of materials. “The Council” means “The Council of the Association”. “Members” means Ordinary and Joint Members of the Association.
 
@@ -46,15 +46,15 @@ sidebar:
 
 12. PERIOD OF OFFICE FOR OFFICERS AND COMMITTEE.
 
-   (a) Elections of Officers and Ordinary Members shall be announced at the Annual General Meeting of the Group. This will take place either by a show of hands at the Annual General Meeting or by an electronic ballot of the membership prior to, but within 3 months of, an Annual General Meeting. The method of voting will be indicated in each meeting notice.
+    (a) Elections of Officers and Ordinary Members shall be announced at the Annual General Meeting of the Group. This will take place either by a show of hands at the Annual General Meeting or by an electronic ballot of the membership prior to, but within 3 months of, an Annual General Meeting. The method of voting will be indicated in each meeting notice.
 
-   (b) Each elected member of Council shall serve from the end of the Annual General Meeting immediately following their election until the end of the third Annual General Meeting after that.
+    (b) Each elected member of Council shall serve from the end of the Annual General Meeting immediately following their election until the end of the third Annual General Meeting after that.
 
-   (c) No person shall serve more than two consecutive three-year terms in the same capacity.
+    (c) No person shall serve more than two consecutive three-year terms in the same capacity.
 
-   (d) No person may serve more than three consecutive three-year terms in any elected capacity.
+    (d) No person may serve more than three consecutive three-year terms in any elected capacity.
 
-   (e) Officers or Ordinary Members of the Committee who have reached the maximum term shall be eligible for re-election once one year has elapsed since leaving their last elected committee position. In this section a year’s service is deemed to be the period between successive AGM’s.
+    (e) Officers or Ordinary Members of the Committee who have reached the maximum term shall be eligible for re-election once one year has elapsed since leaving their last elected committee position. In this section a year’s service is deemed to be the period between successive AGM’s.
 
 13. CO-OPTION TO THE COMMITTEE. The Committee shall have power to co-opt to fill casual vacancies in compliance with Rule 11. In addition, it may co-opt such other members not exceeding three in number as may be required from time to time, no person may be co-opted for more than 9 years.
 
