@@ -7,14 +7,24 @@ sidebar:
     image: "/assets/images/bca_ig_logo.jpg"
     image_alt: "logo for website"
     text: "Under Construction: A website for the Industrial Group of the BCA"
+
+toc: true
+toc_label: "The Committee"
+
 ---
 
 [Chair](#Chair: Dr. Luca Russo)
+
 [Vice Chair](#Vice Chair: Dr. Natalie Johnson)
+
 [Secretary](#Secretary: Dr. Giulia Novelli)
+
 [Treasurer](#Treasurer: Dr. Anthony Bell)
+
 [Ordinary Members](#Ordinary Members)
+
 [Co-opt Members](#Co-opt Members)
+
 [ESCG Rep](#Early Stage Crystallographers Group Representative)
 
 ---
