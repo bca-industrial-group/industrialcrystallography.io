@@ -11,10 +11,6 @@ sidebar:
 
 **Website Under Construction**
 
-<div style="text-align: center;">
-  <img src="/assets/images/bca_ig_logo.jpg" alt="BCA IG logo"/>
-</div>
-
 ![bca ig logo](/assets/images/bca_ig_logo.jpg)
 
 The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community.
