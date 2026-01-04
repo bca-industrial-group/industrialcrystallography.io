@@ -11,7 +11,6 @@ sidebar:
 toc: true
 toc_label: "The Committee"
 
-
 ---
 
 # Chair: Dr. Luca Russo
@@ -61,17 +60,15 @@ Edd has worked for Johnson Matthey as part of the pXRD Team at their Technology 
 
 I graduated with an MChem with Honours from the University of Edinburgh in 2010, and then completed a PhD in chemical crystallography under Professor Simon Parsons at the University of Edinburgh in 2014. The main focus of my PhD was the development and utilization of novel high-pressure low-temperature SXRD techniques, with the aim of elucidating structure-property relationships in coordination compounds with interesting properties under these conditions. Following this I undertook a one year postdoctoral position in time-resolved crystallography under Professor Paul Raithby at the University of Bath in 2015. After a short period I moved into the pharmaceutical industry as a solid form scientist with Eurofins in 2018, and then progressed to a senior scientist with Pfizer in 2020. In my current role I utilize a variety of solid-state techniques to explore the solid form landscape of APIs, provide crystallographic expertise to colleagues in order to solve problems or understand outcomes, and develop improvements to our crystallographic methods.
 
-## Jonathan Loughrey
-
-Currently Head of Screening for Cambrex Edinburgh (formerly Solid Form Solutions), I oversee the drug substance pre-formulation technical group specialising in screening pharmaceutical agents for novel polymorphs, salts, and co-crystals, and conducting early crystallization and single crystal growth studies to locate a crystalline form of a specific pharmaceutical target. My career started at Abbott B.V. in The Netherlands where I specialised in the quantitative determination of polymorphic forms within drug substance batches, using XRPD, vibrational spectroscopy and chemometrics. I then pursued a Ph.D. in the Halcrow group at the University of Leeds, focussing on investigating the metal-supported redox activity of multivalent bis- and tris-dioxolenes and dithiolenes. Following my Ph.D., I held a number of roles within academia, including the staff crystallographer post at the University of Leeds and a PDRA at University of Arizona where I focussed on the preparation and full structural characterisation of haem degradants and the preparation of organic-supported radical species for redox catalysis.
-
-At Cambrex, my interests lie in understanding the utility and process viability of hydrated forms of active pharmaceutical agents, with a particular interest in chiral species, racemates, and conglomerates.
-
 ## Paul O'Meara
 
 I have worked as an XRD Specialist for Malvern Panalytical since 2001 as an X-ray Diffraction Product Technical Specialist. I train and support XRD users in the full range of analytical techniques that a modern diffractometer is capable of. While focused mainly on customers in the UK I have taught in labs all over the world in a diverse range of industrial and academic institutions. Previous to this, I worked as a powder metallurgist and hold a PhD in solid state chemistry from the University of Nottingham.
 
 ## Jonathan Loughrey                                
+
+Currently Head of Screening for Cambrex Edinburgh (formerly Solid Form Solutions), I oversee the drug substance pre-formulation technical group specialising in screening pharmaceutical agents for novel polymorphs, salts, and co-crystals, and conducting early crystallization and single crystal growth studies to locate a crystalline form of a specific pharmaceutical target. My career started at Abbott B.V. in The Netherlands where I specialised in the quantitative determination of polymorphic forms within drug substance batches, using XRPD, vibrational spectroscopy and chemometrics. I then pursued a Ph.D. in the Halcrow group at the University of Leeds, focussing on investigating the metal-supported redox activity of multivalent bis- and tris-dioxolenes and dithiolenes. Following my Ph.D., I held a number of roles within academia, including the staff crystallographer post at the University of Leeds and a PDRA at University of Arizona where I focussed on the preparation and full structural characterisation of haem degradants and the preparation of organic-supported radical species for redox catalysis.
+
+At Cambrex, my interests lie in understanding the utility and process viability of hydrated forms of active pharmaceutical agents, with a particular interest in chiral species, racemates, and conglomerates.
 
 # Co-opt Members
 
@@ -88,4 +85,5 @@ In 2021, Sarah joined AstraZeneca as a Crystallisation Scientist in Early Chemic
 # Early Stage Crystallographers Group Representative
 
 ## Jess Metherall
+
 I am a PhD student jointly funded by Newcastle University and AstraZeneca. My research focuses on the development of the Encapsulated Nanodroplet Crystallisation (ENaCt) technique, combining a statistical and high-throughput experimental approach for the crystallisation of small molecules and pharmaceuticals.
