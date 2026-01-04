@@ -9,17 +9,25 @@ sidebar:
     text: "Under Construction: A website for the Industrial Group of the BCA"
 ---
 
-1. [Chair](#Chair: Dr. Luca Russo)
+[Chair](#Chair: Dr. Luca Russo)
+[Vice Chair](#Vice Chair: Dr. Natalie Johnson)
+[Secretary](#Secretary: Dr. Giulia Novelli)
+[Treasurer](#Treasurer: Dr. Anthony Bell)
+[Ordinary Members](#Ordinary Members)
+[Co-opt Members](#Co-opt Members)
+[ESCG Rep](#Early Stage Crystallographers Group Representative)
+
+---
 
 # Chair: Dr. Luca Russo
-luca.x.russo@gsk.com
+*luca.x.russo@gsk.com*
 
 After graduating in inorganic chemistry back home in Naples, I joined Prof. Bill Clegg’s group for a PhD in supramolecular chemistry and single-crystal XRD methods at Newcastle University: I have then been working as a Postdoc for some years in the research groups of Prof. Kari Rissanen (Jyväskylä University, FI) and Prof. Bill Clegg back in Newcastle, before moving on to the more technological side of things, working as XRD application scientist for Rigaku.
 
 I am currently working in the MatSci department of GlaxoSmithKline (GSK), supporting pharmaceutical product development through structural characterisation and property modelling of crystalline drug substance and formulations.
 
 # Vice Chair: Dr. Natalie Johnson
-njohnson@ccdc.cam.ac.uk
+*njohnson@ccdc.cam.ac.uk*
 
 I am a Data Integrity Research Scientist at the Cambridge Crystallographic Data Centre.
 
@@ -28,7 +36,7 @@ My main area of research is in the completeness of data within the Cambridge Str
 # Secretary: Dr. Giulia Novelli 
 
 # Treasurer: Dr. Anthony Bell
-Anthony.Bell@shu.ac.uk 
+*Anthony.Bell@shu.ac.uk* 
 
 First degree in Chemistry at University of Sheffield 1981-4, in my final year I did a single-crystal research project which got me into crystallography. This helped me get my first job with AEA Technology near Preston (1985-90) when I did X-ray powder diffraction on nuclear and non-nuclear materials.
 
@@ -71,6 +79,7 @@ I have worked as an XRD Specialist for Malvern Panalytical since 2001 as an X-ra
 **Jonathan Loughrey**                                 
 
 # Co-opt Members
+
 **David Walker**
 
 I have been the facility manager for the X-ray Diffraction Research Technology Platform (RTP) at the University of Warwick since 2014. I have over 20 years’ experience in X-ray scattering techniques, with a background in crystallography and ferroelectric materials having undertaken my PhD at Warwick with Professor Pam Thomas. In the last 10 years, our facility has grown from one with mainly local users to a regional hub with a growing national reputation. In response to the changing science, we have added other X-ray scattering techniques to our portfolio, such as SAXS, XRF and laboratory XAFS, alongside existing X-ray diffraction techniques including powder diffraction and structural solution instruments. We work closely with the instrument manufacturers/distributors, having acted as a demo site for several of them over the last 10 years and have been undertaking an increasing amount of work for external clients from other Higher Education Institutions and industry. More recently, I am the Warwick PI for the £3.2M EPSRC funded National Electron Diffraction Facility (NEDF), working in conjunction with Professor Simon Coles and the National Crystallography Service at Southampton, providing the use of electron diffraction for structural solution as a service in the UK.
@@ -83,4 +92,4 @@ In 2021, Sarah joined AstraZeneca as a Crystallisation Scientist in Early Chemic
 
 # Early Stage Crystallographers Group Representative
 
-Jess Metherall
+**Jess Metherall**
