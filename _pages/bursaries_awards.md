@@ -1,5 +1,4 @@
 ---
-title: "Bursaries and Awards"
 permalink: /bursaries_and_awards/
 
 sidebar:
@@ -12,7 +11,7 @@ sidebar:
 
 # Bursaries and Awards
 
-The Industrial group provides financial support to help British Crystallographic Association members attend our events and other relevant meetings. We provide bursaries to enable PhD students to attend our group meetings. We also provide other awards which are available to all BCA members. You can become a member here https://crystallography.org.uk/membership/
+The Industrial group provides financial support to help British Crystallographic Association members attend our events and other relevant meetings. We provide bursaries to enable PhD students to attend our group meetings. We also provide other awards which are available to all BCA members. You can become a member here: [https://crystallography.org.uk/membership/]
 
 Please see below for further details.
 
@@ -26,7 +25,6 @@ Please see below for further details.
 ## Other awards:
 
 - The IG sponsor attendance at relevant international conferences for student/post-doctoral researchers each year. Applications may be made through the BCA bursary portal. Up to £1200 is available each year (up to £2000 in an IUCr year) from the IG in addition to the funds provided by the BCA. Members of the BCA (all sub groups) are eligible and applicants who have not previously received an award may be prioritised if we are oversubscribed.
-- An additional top up award of up to £250 is made available to BCA members at any career stage. This is intended to help with the additional costs of caring for children or dependent family members. Applications can be made to the IG secretary (see the “The Committee” page for current contact details) at any point in the year using the Careers award application form.
-BCA IG Carers Bursary Application 
+- An additional top up award of up to £250 is made available to BCA members at any career stage. This is intended to help with the additional costs of caring for children or dependent family members. Applications can be made to the IG secretary (see the “The Committee” page for current contact details) at any point in the year using the Careers award application form. The BCA IG Carers Bursary Application form can be [downloaded here]({{ "assets/downloads/BCA-IG-Carers-Bursary-Application.docx" | relative_url }})
 
-Please contact Jonathan Loughrey for anything regarding the bursaries Jonathan.Loughrey@almacgroup.com 
+Please contact Jonathan Loughrey for anything regarding the bursaries: [Jonathan.Loughrey@almacgroup.com]
