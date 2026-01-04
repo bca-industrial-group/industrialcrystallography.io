@@ -1,5 +1,4 @@
 ---
-title: Constitution
 permalink: /constitution/
 
 sidebar:
