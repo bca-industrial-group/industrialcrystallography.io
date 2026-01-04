@@ -8,6 +8,7 @@ sidebar:
     text: "Website Under Construction"
 
 ---
+# Bursaries and Awards
 
 The Industrial group provides financial support to help British Crystallographic Association members attend our events and other relevant meetings. We provide bursaries to enable PhD students to attend our group meetings. We also provide other awards which are available to all BCA members. You can become a member here: [https://crystallography.org.uk/membership/](https://crystallography.org.uk/membership/)
 
