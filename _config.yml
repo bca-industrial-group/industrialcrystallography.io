@@ -91,5 +91,5 @@ tag_archive:
 footer:
   links:
     - label: "Bluesky"
-      icon: "/assets/images/bluesky_logo.png"
       url: https://bsky.app/profile/industrial-gp-bca.bsky.social
+    -
