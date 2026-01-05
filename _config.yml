@@ -34,6 +34,10 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+social:
+  type: Bluesky
+  links: https://bsky.app/profile/industrial-gp-bca.bsky.social
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -84,3 +88,8 @@ tag_archive:
   type: liquid
   path: /tags/
   
+footer:
+  links:
+    - label: "Bluesky"
+      icon: "/assets/images/bluesky_logo.png"
+      url: https://bsky.app/profile/industrial-gp-bca.bsky.social
