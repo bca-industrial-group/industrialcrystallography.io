@@ -5,13 +5,13 @@ sidebar:
   - Title: "Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
     image_alt: "bca ig logo"
-    text: "Website Under Construction"
+    text: "A website for the Industrial Group of the British Crystallography Association"
 
 ---
 
 ![bca ig logo](/assets/images/bca_ig_logo.jpg)
 
-The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community.
+The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community. It aims to support the interests of crystallographers involved in industry.
 
 ---
 
