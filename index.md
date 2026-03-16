@@ -9,8 +9,6 @@ sidebar:
 
 ---
 
-**Website Under Construction**
-
 ![bca ig logo](/assets/images/bca_ig_logo.jpg)
 
 The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community.
@@ -19,7 +17,6 @@ The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallogr
 
 Join us at the **BCA Spring Meeting 2026** at the **University of Leeds** from Monday March 30th to Wednesday 1st April for an exciting program of scientific talks.
 
-Early Bird Registration Deadline: **Friday 06 March 2026 (23:59)**
 
 [Register Now](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=135662&ef_sel_menu=2556&eventID=337&CSPCHD=000001000000sjmUuGGd47m2txyhqG4S3Eve1VWtgvt$aBjJFf)
 
