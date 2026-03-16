@@ -5,7 +5,7 @@ sidebar:
   - Title: "Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
     image_alt: "bca ig logo"
-    text: "Website Under Construction"
+    text: "Industrial Group of the BCA"
 
 ---
 

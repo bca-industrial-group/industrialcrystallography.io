@@ -5,7 +5,7 @@ sidebar:
   - title: "BCA Industrial Group"
     image: "/assets/images/bca_ig_logo.jpg"
     image_alt: "logo for website"
-    text: "Website Under Construction: A website for the Industrial Group of the BCA"
+    text: "A website for the Industrial Group of the British Crystallography Association"
 
 ---
 
