@@ -1,11 +1,6 @@
 ---
 title: "About Us"
 permalink: /about/
-sidebar:
-  - title: "BCA Industrial Group"
-    image: "/assets/images/bca_ig_logo.jpg"
-    image_alt: "logo for website"
-    text: "A website for the Industrial Group of the British Crystallography Association"
 ---
 
 # BCA Industrial Group
