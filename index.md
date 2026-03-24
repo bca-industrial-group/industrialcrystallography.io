@@ -9,8 +9,6 @@ sidebar:
 
 ---
 
-![bca ig logo](/assets/images/bca_ig_logo.jpg)
-
 The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallography & X-ray Diffraction (XRD) community and the X-ray Fluorescence (XRF) community. It aims to support the interests of crystallographers involved in industry.
 
 ---
