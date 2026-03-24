@@ -6,6 +6,7 @@ sidebar:
     image: "/assets/images/bca_ig_logo.jpg"
     image_alt: "bca ig logo"
     text: "A website for the Industrial Group of the British Crystallography Association"
+    overlay_filter: 1.0 # opacity
 
 ---
 
