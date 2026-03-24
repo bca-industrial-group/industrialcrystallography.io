@@ -18,6 +18,6 @@ Join us at the **BCA Spring Meeting 2026** at the **University of Leeds** from M
 
 [Register Now](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=135662&ef_sel_menu=2556&eventID=337&CSPCHD=000001000000sjmUuGGd47m2txyhqG4S3Eve1VWtgvt$aBjJFf)
 
-![bca spring meeting banner](/assets/images/bca_spring_2026_meeting_banner.jpg)
+[![bca spring meeting banner](/assets/images/bca_spring_2026_meeting_banner.jpg)](tinyurl.com/BCASpring2026)
 
 
