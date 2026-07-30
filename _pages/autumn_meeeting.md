@@ -11,8 +11,8 @@ sidebar:
 
 ---
 
-# IG Autumn Meeting 2026
+# Save the date!
 
-Save the date! The IG will be holding a virtual autumn meeting on the 12th November 2026.
+The IG will be holding a virtual autumn meeting on the **12th November 2026**.
 
-Please check back here for more information and agenda closer to the date.
+Please check back here for more information and the agenda closer to the date.
