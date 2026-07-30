@@ -14,11 +14,5 @@ The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallogr
 
 ---
 
-Join us at the **BCA Spring Meeting 2026** at the **University of Leeds** from Monday March 30th to Wednesday 1st April for an exciting program of scientific talks.
-
-
-[Register Now](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/tOtherPage.csp?pageID=135662&ef_sel_menu=2556&eventID=337&CSPCHD=000001000000sjmUuGGd47m2txyhqG4S3Eve1VWtgvt$aBjJFf)
-
-[![bca spring meeting banner](/assets/images/bca_spring_2026_meeting_banner.jpg)](https://tinyurl.com/BCASpring2026)
 
 
