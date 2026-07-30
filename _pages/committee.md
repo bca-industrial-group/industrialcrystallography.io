@@ -82,8 +82,8 @@ Sarah graduated from the University of Bath with an MChem in Chemistry, includin
 
 In 2021, Sarah joined AstraZeneca as a Crystallisation Scientist in Early Chemical Development at Macclesfield. Sarah has maintained an interest in using structural informatic tools to risk assess pharmaceutical materials.
 
+##  Michael Wharmby
+
 # Early Stage Crystallographers Group Representative
 
-## Jess Metherall
-
-I am a PhD student jointly funded by Newcastle University and AstraZeneca. My research focuses on the development of the Encapsulated Nanodroplet Crystallisation (ENaCt) technique, combining a statistical and high-throughput experimental approach for the crystallisation of small molecules and pharmaceuticals.
+## Yaser Balmohammadi
