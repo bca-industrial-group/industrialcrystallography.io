@@ -87,3 +87,7 @@ In 2021, Sarah joined AstraZeneca as a Crystallisation Scientist in Early Chemic
 # Early Stage Crystallographers Group Representative
 
 ## Yaser Balmohammadi
+
+I am currently a postdoctoral researcher at Cardiff University. I finished my PhD in October 2025 at the University of Bern, and my research field was quantum crystallography.
+At Cardiff University, as a member of Dr.Lauren Hatcher's group, I am working on photoactive materials and employing quantum crystallography in this new research area.
+
