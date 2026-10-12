@@ -18,6 +18,6 @@ The **BCA Industrial Group** (BCA-IG) is a collaboration between the Crystallogr
 
 
 
-[![ig_autumn_meeting_banner](/assets/images/ig_save_the_date_2026.png)](https://ig.crystallography.org.uk/autumn_meeting/)
+[![ig_autumn_meeting_banner](/assets/images/ig_meeting_poster_pic.png)](https://ig.crystallography.org.uk/autumn_meeting/)
 
 
