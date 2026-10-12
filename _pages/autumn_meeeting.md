@@ -13,8 +13,22 @@ sidebar:
 
 # Save the date!
 
-![ig_autumn_meeting_banner](/assets/images/ig_save_the_date_2026.png)
+![ig_autumn_meeting_banner](/assets/images/ig_meeting_poster_pic.png)
 
-The IG will be holding a virtual autumn meeting on the **12th November 2026**.
+The IG will be holding a virtual autumn meeting on the **12th November 2026** with the theme **Industry in Action**.
 
-Please check back here for more information and the agenda closer to the date.
+Confirmed speakers to be announced soon.
+
+Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. Purchase your tickets here: (link to be added)
+
+**Agenda**
+
+Session 1: 10:00 – 11:50 
+
+Lunch break: 12:00 – 13:00
+
+Session 2: 13:00 – 14:50
+
+IG AGM: 15:00 – 16:00
+
+Submit an abstract to speak at this meeting: [Link to abstract submission form](https://forms.gle/ywvfzGLjAjFGE6fD8)
