@@ -13,23 +13,23 @@ toc_label: "The Committee"
 
 ---
 
-# Chair: Dr. Luca Russo
+# Chair: Luca Russo
 *luca.x.russo@gsk.com*
 
 After graduating in inorganic chemistry back home in Naples, I joined Prof. Bill Clegg’s group for a PhD in supramolecular chemistry and single-crystal XRD methods at Newcastle University: I have then been working as a Postdoc for some years in the research groups of Prof. Kari Rissanen (Jyväskylä University, FI) and Prof. Bill Clegg back in Newcastle, before moving on to the more technological side of things, working as XRD application scientist for Rigaku.
 
 I am currently working in the MatSci department of GlaxoSmithKline (GSK), supporting pharmaceutical product development through structural characterisation and property modelling of crystalline drug substance and formulations.
 
-# Vice Chair: Dr. Natalie Johnson
+# Vice Chair: Natalie Johnson
 *njohnson@ccdc.cam.ac.uk*
 
 I am a Data Integrity Research Scientist at the Cambridge Crystallographic Data Centre.
 
 My main area of research is in the completeness of data within the Cambridge Structural Database – a database of 1 million small-molecule organic and metal organic crystal structures. I also explore ways to identify and investigate any fraudulent or plagiarised data within the database.
 
-# Secretary: Dr. Giulia Novelli 
+# Secretary: Giulia Novelli 
 
-# Treasurer: Dr. Anthony Bell
+# Treasurer: Anthony Bell
 *Anthony.Bell@shu.ac.uk* 
 
 First degree in Chemistry at University of Sheffield 1981-4, in my final year I did a single-crystal research project which got me into crystallography. This helped me get my first job with AEA Technology near Preston (1985-90) when I did X-ray powder diffraction on nuclear and non-nuclear materials.
@@ -52,7 +52,7 @@ My early career was in analytical chemistry following an industrial placement at
 
 I am currently Solid Form Screening Team Leader within the Material Sciences group at Pharmaron in Hoddesdon, Hertfordshire, where I oversee the polymorph, salt and cocrystal screening activities on Active Pharmaceutical Ingredients and intermediates to support early development campaigns. I joined Pharmaron in 2020 and prior to that I was at Cambrex (formerly Solid Form Solutions) in Edinburgh for four years. Previously, I obtained an MSci in Natural Sciences from University of Cambridge, where I did my master’s thesis on the photostability of nifedipine cocrystals in the solid state under the supervision of Prof. Bill Jones.
 
-## Dr Edd Bilbe
+## Edd Bilbe
 
 Edd has worked for Johnson Matthey as part of the pXRD Team at their Technology Centre near Reading for around 11 years. He is interested in mixtures and dissordered materials believing that materials performance is often inversely proportional to their ability to be characterised. Because of this SC-XRD doesn’t feature much but collaberative work includes SS-NMR, DFT, MD, PDF, EPMA, ED, ND and if all else fails EXAFS. Before JM Edd was at the university of Reading for 10 years looking at cellulose/polymers and transition-metal cyanides. Other than that he walks, cycles, cooks and takes photos of nature.
 
