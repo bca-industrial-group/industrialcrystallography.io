@@ -17,9 +17,13 @@ sidebar:
 
 The IG will be holding a virtual autumn meeting on the **12th November 2026** with the theme **Industry in Action**.
 
-Confirmed speakers to be announced soon.
+Confirmed speakers:
 
-Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. Purchase your tickets here: (link to be added)
+Dr. Luke Clifton (ISIS Neutron and Muon Source)
+
+Dr. Clare Thorpe (University of Sheffield)
+
+Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. [Purchase your tickets here](https://www.eventbrite.co.uk/e/bca-ig-autmun-meeting-industry-in-action-online-event-tickets-2003296851811)
 
 **Agenda**
 
