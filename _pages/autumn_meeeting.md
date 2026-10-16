@@ -11,7 +11,7 @@ sidebar:
 
 ---
 
-# Save the date!
+# Autumn Meeting 2026
 
 ![ig_autumn_meeting_banner](/assets/images/ig_meeting_poster_pic.png)
 
