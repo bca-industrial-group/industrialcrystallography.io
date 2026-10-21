@@ -23,6 +23,13 @@ Dr. Luke Clifton (ISIS Neutron and Muon Source)
 
 Dr. Clare Thorpe (University of Sheffield)
 
+Dr. Edd Bilbe (Johnson Matthey)
+
+Dr. Tony Bell (University of Sheffield)
+
+Dr. Max Terban (Momentum Transfer)
+
+
 Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. [Purchase your tickets here](https://www.eventbrite.co.uk/e/bca-ig-autmun-meeting-industry-in-action-online-event-tickets-2003296851811)
 
 **Agenda**
