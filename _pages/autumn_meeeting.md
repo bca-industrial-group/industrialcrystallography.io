@@ -25,7 +25,7 @@ Dr. Clare Thorpe (University of Sheffield)
 
 Dr. Edd Bilbe (Johnson Matthey)
 
-Dr. Tony Bell (University of Sheffield)
+Dr. Tony Bell (Sheffield Hallam University)
 
 Dr. Max Terban (Momentum Transfer)
 
