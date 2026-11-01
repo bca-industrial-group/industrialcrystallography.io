@@ -29,6 +29,10 @@ Dr. Tony Bell (Sheffield Hallam University)
 
 Dr. Max Terban (Momentum Transfer)
 
+Dr. Tom Smith (Indicatrix Crystallography)
+
+Dr. Rui Guo (Pfizer)
+
 
 Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. [Purchase your tickets here](https://www.eventbrite.co.uk/e/bca-ig-autmun-meeting-industry-in-action-online-event-tickets-2003296851811)
 
