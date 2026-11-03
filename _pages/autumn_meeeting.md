@@ -39,11 +39,21 @@ Tickets are priced at £10 and can be purchased from Eventbrite, with the procee
 **Agenda**
 
 Session 1: 10:00 – 11:50 
+Chairs: _Dr. Luca Russo and Dr. Natalie Johnson_
+| 10:00 - 10:10 | Opening Remarks (Dr. Luca Russo) |
+| 10:10 - 10:40 | Dr. Luke Clifton (ISIS Neutron and Muon Source) |
+| 10:40 - 11:00 | _TBC_|
+| 11:00 - 11:20 | Dr. Tony Bell (Sheffield Hallam University) |
+| 11:20 - 11:50 | Dr. Edd Bilbe (Johnson Matthey) _"Consistency in a changing world"_|
 
 Lunch break: 12:00 – 13:00
 
 Session 2: 13:00 – 14:50
+Chairs: _Dr. Tony Bell and Dr. Natalie Johnson_
+| 13:00 - 13:30 | Dr. Rui Guo  (Pfizer)|
+| 13:30 - 13:50 | Dr. Tom Smith (Indicatrix Crystallography) _An Enhanced Optical Microscope for High-Throughput Small-Molecule Crystallisation_|
+| 13:50 - 14:10 | Dr. Max Terban (Momentum Transfer)|
+| 14:10 - 14:40 | Dr. Clare Thorpe (University of Sheffield) _What can shipwreck glasses tell us about nuclear waste degradation?_|
+| 14:40 - 14:50 | Closing Remarks|
 
 IG AGM: 15:00 – 16:00
-
-Submit an abstract to speak at this meeting: [Link to abstract submission form](https://forms.gle/ywvfzGLjAjFGE6fD8)
