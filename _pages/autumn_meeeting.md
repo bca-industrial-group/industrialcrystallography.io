@@ -47,8 +47,8 @@ Chairs: _Dr. Luca Russo and Dr. Natalie Johnson_
 | | |
 | --- | --- |
 | 10:00 - 10:10 | Opening Remarks (Dr. Luca Russo) |
-| 10:10 - 10:40 | Dr. Luke Clifton (ISIS Neutron and Muon Source) |
-| 10:40 - 11:00 | _TBC_|
+| 10:10 - 10:40 | Dr. Luke Clifton (ISIS Neutron and Muon Source) <br> _Examining Membrane Biochemical Events with Neutron Reflectometry_ |
+| 10:40 - 11:00 | Zhuoran Yang (University of Liverpool) <br> _AriadneX: Unknown crystalline phase discovery through Anomaly-aware unmixing of Power X-Ray Diffraction Patterns_ |
 | 11:00 - 11:20 | Dr. Tony Bell (Sheffield Hallam University) |
 | 11:20 - 11:50 | Dr. Edd Bilbe (Johnson Matthey) <br> _Consistency in a changing world_|
 
@@ -64,7 +64,7 @@ Chairs: _Dr. Tony Bell and Dr. Natalie Johnson_
 | --- | --- |
 | 13:00 - 13:30 | Dr. Rui Guo  (Pfizer)|
 | 13:30 - 13:50 | Dr. Tom Smith (Indicatrix Crystallography) <br> _An Enhanced Optical Microscope for High-Throughput Small-Molecule Crystallisation_|
-| 13:50 - 14:10 | Dr. Max Terban (Momentum Transfer)|
+| 13:50 - 14:10 | Dr. Max Terban (Momentum Transfer) <br> _Synchrotron powder diffraction for all: rapid access, high throughput, and dedicated support_|
 | 14:10 - 14:40 | Dr. Clare Thorpe (University of Sheffield) <br> _What can shipwreck glasses tell us about nuclear waste degradation?_|
 | 14:40 - 14:50 | Closing Remarks|
 
