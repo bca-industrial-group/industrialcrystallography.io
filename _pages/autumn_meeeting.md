@@ -33,6 +33,8 @@ Dr. Tom Smith (Indicatrix Crystallography)
 
 Dr. Rui Guo (Pfizer)
 
+Zhuoran Yang (University of Liverpool)
+
 
 Tickets are priced at £10 and can be purchased from Eventbrite, with the proceeds going towards bursaries to future crystallography meetings. [Purchase your tickets here](https://www.eventbrite.co.uk/e/bca-ig-autmun-meeting-industry-in-action-online-event-tickets-2003296851811)
 
@@ -49,7 +51,7 @@ Chairs: _Dr. Luca Russo and Dr. Natalie Johnson_
 | 10:00 - 10:10 | Opening Remarks (Dr. Luca Russo) |
 | 10:10 - 10:40 | Dr. Luke Clifton (ISIS Neutron and Muon Source) <br> _Examining Membrane Biochemical Events with Neutron Reflectometry_ |
 | 10:40 - 11:00 | Zhuoran Yang (University of Liverpool) <br> _AriadneX: Unknown crystalline phase discovery through Anomaly-aware unmixing of Power X-Ray Diffraction Patterns_ |
-| 11:00 - 11:20 | Dr. Tony Bell (Sheffield Hallam University) |
+| 11:00 - 11:20 | Dr. Tony Bell (Sheffield Hallam University) <br> _An XRD and XRF study of the incorporation of SnO2 into soda lime silica glasses_|
 | 11:20 - 11:50 | Dr. Edd Bilbe (Johnson Matthey) <br> _Consistency in a changing world_|
 
 **Lunch break: 12:00 – 13:00**
