@@ -64,7 +64,7 @@ Chairs: _Dr. Tony Bell and Dr. Natalie Johnson_
 
 | | |
 | --- | --- |
-| 13:00 - 13:30 | Dr. Rui Guo  (Pfizer)|
+| 13:00 - 13:30 | Dr. Rui Guo  (Pfizer) <br> _Crystal Structure Prediction in Action: From Molecular Diagrams to Pharmaceutical Decisions_|
 | 13:30 - 13:50 | Dr. Tom Smith (Indicatrix Crystallography) <br> _An Enhanced Optical Microscope for High-Throughput Small-Molecule Crystallisation_|
 | 13:50 - 14:10 | Dr. Max Terban (Momentum Transfer) <br> _Synchrotron powder diffraction for all: rapid access, high throughput, and dedicated support_|
 | 14:10 - 14:40 | Dr. Clare Thorpe (University of Sheffield) <br> _What can shipwreck glasses tell us about nuclear waste degradation?_|
